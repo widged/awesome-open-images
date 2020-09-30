@@ -121,6 +121,12 @@ The Museum's entire permanent collection (over 20,000 objects) is searchable onl
 
 ## Archives
 
+### Asia Pacific
+
+[DigitalNZ](https://digitalnz.org/) | New Zealand
+
+### USA
+
 [Library of Congress. Print and Photographs Online Catalog](http://www.loc.gov/pictures/)
 
 The collections include photographs, fine and popular prints and drawings, posters, and architectural and engineering drawings. The nature of historical archival collections means that copyright or other information about restrictions may be difficult or even impossible to determine. Whenever possible, the Library provides information about copyright owners and other restrictions in the catalog records or other texts that accompany collections. The Library provides such information as a service to aid patrons in determining the appropriate use of an item, but that determination ultimately rests with the user.
