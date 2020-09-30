@@ -244,9 +244,28 @@ A number of museums make images from their collections available via Flickr Comm
 
 The [processing community](https://forum.processing.org/two/discussion/26253/share-my-generative-art-works) is perhaps the best source. 
 
+The [NodeBox community](https://www.nodebox.net/)
+
+#### Artists
+[Filippo Guida](https://codepen.io/filippoguida/pens/public)
+
 [Johan Karlsson](https://codepen.io/DonKarlssonSan/pens/public)
 
 [Gerard Ferrande](https://codepen.io/ge1doot/pens/public)
+
+[Ben Matthews](https://codepen.io/tsuhre/pens/public?cursor=ZD0xJm89MCZwPTEmdj0zOTQzNDMwMw==)
+
+[Tiffany Rayside](https://codepen.io/tmrDevelops/pens/public?cursor=ZD0xJm89MCZwPTEmdj0xMjA4OTE5MA==)
+
+[Jerome Herr](https://codepen.io/p5art/pens/public?cursor=ZD0xJm89MCZwPTEmdj04MzkyNzUy)
+
+[Toshiya Marukubo](https://codepen.io/toshiya-marukubo/pens/public?cursor=ZD0xJm89MCZwPTEmdj00Njk5MTI4Mg==)
+
+[Jack Rugile](https://codepen.io/jackrugile/pens/public?cursor=ZD0xJm89MCZwPTEmdj0yMzcxMDExNA==)
+
+[Yiting Liu](https://codepen.io/yitliu/pens/public?cursor=ZD0xJm89MCZwPTEmdj00MzI5NjAyMQ==)
+
+[effulgence](https://codepen.io/effulgence/pens/public)
 
 ### AI art
 
