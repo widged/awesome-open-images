@@ -244,6 +244,10 @@ A number of museums make images from their collections available via Flickr Comm
 
 The [processing community](https://forum.processing.org/two/discussion/26253/share-my-generative-art-works) is perhaps the best source. 
 
+[Johan Karlsson](https://codepen.io/DonKarlssonSan/pens/public)
+
+[Gerard Ferrande](https://codepen.io/ge1doot/pens/public)
+
 ### AI art
 
 [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
