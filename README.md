@@ -32,6 +32,22 @@ Beautiful,free photos. All photos can be used free for commercial or noncommerci
 
 Le Site parismuseescollections.paris.fr permet aux utilisateurs de consulter les œuvres issues des collections des musées de la Ville de Paris. L'ensemble des images présentes sur le portail, compte tenu du statut des œuvres représentées et des droits d'auteur attachées à l'Image, sont soit placées sous licence Creative Commons, soit demeurent « Tous droits réservés » à leurs auteurs ou aux ayants-droit des auteurs. L’internaute sera autorisé ou non à faire usage des images selon les différents cas.
 
+[Musée du Louvre](https://www.louvre.fr/en/moteur-de-recherche-oeuvres)
+
+By default images cannot be re-used. Exceptions apply, see [Conditions for Use of Images](https://www.louvre.fr/en/conditions-use-images). They have a Search tool, [Atlas](http://cartelfr.louvre.fr/cartelfr/visite?srv=crt_frm_rs&langue=fr&initCritere=true)
+
+[Digitalt Museum](https://digitaltmuseum.org/) | Norway, Sweden
+
+[Statens Museum for Kunst (National Gallery of Denmark)](http://www.smk.dk/en/use-of-images-and-text/free-download-of-artworks/) | Copenhagen, Denmark
+
+[The Rijksmuseum](http://him.arkyves.org/RIJKSMUSEUM/browse) and [api](https://www.rijksmuseum.nl/en/api/rijksmuseum-oai-api-instructions-for-use)
+    
+The Rijksmuseum OAI API Collection is a set of more than 110,000 descriptions of objects (metadata) and digital images from the Rijksmuseum collection. Images can be downloaded or shared. Account creation is required. Most are under a Creative Commons BY 3.0 licence (allowing sharing, remixing and commercial use). 
+
+[Europeana](https://pro.europeana.eu/resources/apis) | Netherlands
+
+### UK
+
 [Brighton Museums](https://brightonmuseums.org.uk/discover/collections/search-our-collections/collection-data-and-images/) | UK
 
 The published images and data from our collections are made available under a BY-SA 4.0 Creative Commons licence. 
@@ -42,15 +58,8 @@ The published images and data from our collections are made available under a BY
 
 [Imperial War Museum](https://www.iwm.org.uk/collections) | London, UK
 
-[Digitalt Museum](https://digitaltmuseum.org/) | Norway, Sweden
+[The National Gallery](https://www.nationalgallery.org.uk/paintings/search-the-collection)
 
-[Statens Museum for Kunst (National Gallery of Denmark)](http://www.smk.dk/en/use-of-images-and-text/free-download-of-artworks/) | Copenhagen, Denmark
-
-[The Rijksmuseum](https://www.rijksmuseum.nl/en/api/rijksmuseum-oai-api-instructions-for-use)
-    
-The Rijksmuseum OAI API Collection is a set of more than 110,000 descriptions of objects (metadata) and digital images from the Rijksmuseum collection. Images can be downloaded or shared. Account creation is required.
-
-[Europeana](https://pro.europeana.eu/resources/apis) | Netherlands
 
 ### Asia Pacific
 
@@ -63,13 +72,13 @@ The Rijksmuseum OAI API Collection is a set of more than 110,000 descriptions of
 ### USA
 
 
-[The Metropolitan Museum of Art Image Resources](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources)
+[The Metropolitan Museum of Art Image Resources](https://www.metmuseum.org/art/collection/search#!?showOnly=highlights%7CwithImage%7CopenAccess&offset=0&pageSize=0&sortBy=Relevance&sortOrder=asc&perPage=20&searchField=All)
     
-The Museum has implemented Open Access for Scholarly Content (OASC). Through OASC, artworks in the Collection section of the website which the Museum believes to be in the public domain and free of other known restrictions have been identified by an icon, OASC.
+The Museum has implemented Open Access for Scholarly Content (OASC). Through OASC, artworks in the Collection section of the website which the Museum believes to be in the public domain and free of other known restrictions have been identified by an icon, OASC. On February 7, 2017, The Metropolitan Museum of Art implemented a new policy known as Open Access, which makes images of artworks it believes to be in the public domain widely and freely available for unrestricted use, and at no cost, in accordance with the Creative Commons Zero (CC0) designation and the Terms and Conditions of this website. Check their [Open Data Policy](http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources)
     
 [The J. Paul Getty Museum Open Content Program](http://www.getty.edu/about/opencontent.html)
     
-The Getty makes available, without charge, all available digital images to which the Getty holds the rights or that are in the public domain to be used for any purpose. No permission is required. Over 99,000 images are available for download.
+Over 99,000 images are available for download. The Getty makes available, without charge, all available digital images to which the Getty holds the rights or that are in the public domain to be used for any purpose. No permission is required. 
     
 [Art Institute Chicago](https://www.artic.edu/collection)
 
@@ -81,7 +90,7 @@ Thousands of artworks, from around the world and across the centuries. Get detai
 
 [National Gallery of Arts](https://images.nga.gov/en/page/show_home_page.html)
 
-NGA Images is a repository of digital images of the collections of the National Gallery of Art. On this website you can search, browse, share, and download images. A standards-based reproduction guide and a help section provide advice for both novices and experts. More than 53,000 open access digital images up to 4000 pixels on the long dimension are available free of charge for download and use. NGA Images is designed to facilitate learning, enrichment, enjoyment, and exploration.
+NGA Images is a repository of digital images of the collections of the National Gallery of Art. On this website you can search, browse, share, and download images. A standards-based reproduction guide and a help section provide advice for both novices and experts. More than 53,000 open access digital images up to 4000 pixels on the long dimension are available free of charge for download and use. NGA Images is designed to facilitate learning, enrichment, enjoyment, and exploration. Quick access with [collection-search](https://www.nga.gov/collection/collection-search.html)
 
 [Indianapolis Museum of Art](http://collection.imamuseum.org/)
 
@@ -115,11 +124,26 @@ The Museum's entire permanent collection (over 20,000 objects) is searchable onl
 
 [The Jewish Museum](https://thejewishmuseum.org/collection) | New York, NY
 
+[MoMA, The Museum of Modern Art](https://www.moma.org/collection/) | New York, NY
+
+More than 89,000 works are currently available online.
+
 [Minneapolis Institute of Art](https://collections.artsmia.org/) | Minneapolis, MN 
 
 [Virginia Museum of Fine Arts](https://www.vmfa.museum/collections/collections-archive/) | Richmond, VA
 
+[Smithsonian Institution](https://collections.si.edu/search/)
+
+Search over 16 million records of museum objects, archives and library materials including more than 5.1 million online images, audio & videos and blog posts.
+
 ## Archives
+
+### Europe
+
+[openbeelden](https://www.openbeelden.nl/) | Netherlands
+
+Open Images is an open media platform that offers online access to audiovisual archive material to stimulate creative reuse.
+
 
 ### Asia Pacific
 
@@ -127,7 +151,7 @@ The Museum's entire permanent collection (over 20,000 objects) is searchable onl
 
 ### USA
 
-[Library of Congress. Print and Photographs Online Catalog](http://www.loc.gov/pictures/)
+[Library of Congress. Print and Photographs Online Catalog](http://www.loc.gov/pictures/) and [collections](https://www.loc.gov/collections/)
 
 The collections include photographs, fine and popular prints and drawings, posters, and architectural and engineering drawings. The nature of historical archival collections means that copyright or other information about restrictions may be difficult or even impossible to determine. Whenever possible, the Library provides information about copyright owners and other restrictions in the catalog records or other texts that accompany collections. The Library provides such information as a service to aid patrons in determining the appropriate use of an item, but that determination ultimately rests with the user.
 
@@ -141,11 +165,21 @@ Images, Videos, and Audios, many of which are from the Netherlands. Access to th
     
 Access to print, images, and audio-visual collections from the Library of Congress.
     
-[New York Public Library -- Digital Gallery](http://digitalgallery.nypl.org/nypldigital/index.cfm)
+[New York Public Library -- Digital Gallery](http://digitalgallery.nypl.org/nypldigital/index.cfm) and [digitalcollections](https://digitalcollections.nypl.org/)
     
 NYPL Digital Gallery provides free and open access to over 800,000 images digitized from the The New York Public Library's vast collections, including illuminated manuscripts, historical maps, vintage posters, rare prints, photographs and more.
 
+[worldimages](http://worldimages.sjsu.edu/)
 
+The internationally recognized WorldImages database provides access to the California State University IMAGE Project. It has just been selected by the Library of Congress for inclusion in its historic collection of Internet materials. It contains approximately 100,000 images, is global in coverage and includes all areas of visual imagery.
+
+[Fine Arts Museums of San Fransisco](https://art.famsf.org/) | San Fransisco
+
+Largest public arts institution in the City of San Francisco and one of the largest art museums in the United States.
+
+[Granger Historical Pictures](https://www.granger.com/?gclid=CjwKCAjw2dD7BRASEiwAWCtCb8UfjSjNA6fIMoXKteeYMwwwGqIzNCOEG3-wVLJHmUdvZnSxrEYrchoCHXcQAvD_BwE)
+
+GRANGER is an image licensing service that provides historical images for commercial and editorial use. We maintain an extensive, easily-searchable online image archive and provide a variety of research and image modification services.
 ## Themes
 
 ### Space exploration
@@ -155,19 +189,8 @@ NYPL Digital Gallery provides free and open access to over 800,000 images digiti
 Images, audio, video, and computer files used in the rendition of 3-dimensional models, such as texture maps and polygon data in any format - generally are not copyrighted. You may use this material for educational or informational purposes, including photo collections, textbooks, public exhibits, computer graphical simulations and Internet Web pages. This general permission extends to personal Web pages. NASA has extensive image and video galleries online, including historic images, current missions, astronomy pictures, and ways to search for NASA images.
 
 
-### History
 
-[US History Images](http://ushistoryimages.com/general-jackson.shtm)_
-
-### Natural illustrations
-
-Typically scans from old books. The resolution is super high, but it is a scan and it can show on the photo. 
-
-[Biodiversity Library](https://www.biodiversitylibrary.org/)
-
-Illustrations from old books. Old illustrations of plants and birds. [Example](https://ia800909.us.archive.org/BookReader/BookReaderImages.php?id=birdsofamericafr02audu&itemPath=%2F21%2Fitems%2Fbirdsofamericafr02audu&server=ia800909.us.archive.org&page=n18_w440)
-
-## Science & Medicine
+### Science
 
 [U.S. Department of Agriculture Image Gallery](http://www.ars.usda.gov/News/docs.htm?docid=23559)
     
@@ -177,4 +200,37 @@ All images are in the public domain and may be used for any purpose. However, do
 
 The Images collection is a selection of digital still images which are the very best visual representation of the U.S. Fish and Wildlife Service mission - "working with others to conserve, protect and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people".   Most selected images, historical artifacts, audio clips, publications, and video, are in the public domain.  Those not in the public domain are intended for personal, private use.
 
+[USDA Agricultural Research Archive](https://www.ars.usda.gov/oc/images/image-gallery/)
+
+### Natural illustrations
+
+Typically scans from old books. The resolution is super high, but it is a scan and it can show on the photo. 
+
+[Biodiversity Library](https://www.biodiversitylibrary.org/)
+
+Illustrations from old books. Old illustrations of plants and birds. [Example](https://ia800909.us.archive.org/BookReader/BookReaderImages.php?id=birdsofamericafr02audu&itemPath=%2F21%2Fitems%2Fbirdsofamericafr02audu&server=ia800909.us.archive.org&page=n18_w440)
+
+
+
+### History
+
+[US History Images](http://ushistoryimages.com/general-jackson.shtm)
+
+
+## Searches
+
+[creativecommons search](https://search.creativecommons.org/) and [oldsearch](https://oldsearch.creativecommons.org/)
+
+[images google](https://images.google.com/),select tools and usage rights = creative commons. There are images that you would not expect to be available under that license, for instance [Ansel Adams](https://www.google.com/search?q=ansel+adams&tbm=isch&ved=2ahUKEwiSm7-34ZHsAhVCexoKHchFBWcQ2-cCegQIABAA&oq=ansel+adams&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECCMQJzoFCAAQsQM6BAgAEAM6BwgAELEDEENQwhdYgyRgwyZoAHAAeACAAUiIAYcFkgECMTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=QPB0X5L7DML2aciLlbgG&bih=772&biw=974&tbs=il%3Acl&hl=en)
+
+[Flickr Commons](http://www.flickr.com/commons/institutions/) and [flickr tagged as creative commons](https://www.flickr.com/creativecommons/)
+
+A number of museums make images from their collections available via Flickr Commons.
+    
+[Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page)
+    
+    
+## Not open but worth a mention
+
+[artsy.net](https://www.artsy.net/)
 
