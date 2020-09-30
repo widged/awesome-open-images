@@ -234,3 +234,39 @@ A number of museums make images from their collections available via Flickr Comm
 
 [artsy.net](https://www.artsy.net/)
 
+## Generated Images
+
+### Algorithmic Art
+
+[Search on Generative Image](https://www.google.com/search?q=generative+art+black+and+white&sxsrf=ALeKk01nQ3V-CEbLCP1aoEHP9vZvekssGg:1601501127094&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLtKbO6JHsAhUJ1BoKHedwDN8Q_AUoAXoECAwQAw&biw=974&bih=772)
+
+[Generative Art Guide: Examples, Software and Tools to Make Algorithm Art](https://aiartists.org/generative-art-design#:~:text=Generative%20Art%20is%20a%20process,%2C%20shapes%2C%20colors%20or%20patterns.&text=In%20contrast%20to%20traditional%20artists,thousands%20of%20ideas%20in%20milliseconds.) 
+
+The [processing community](https://forum.processing.org/two/discussion/26253/share-my-generative-art-works) is perhaps the best source. 
+
+### AI art
+
+[Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
+
+[AI Gahaku](https://ai-art.tokyo/en/)
+
+[Generating Modern Art using Generative Adversarial Network(GAN) on Spell](https://towardsdatascience.com/generating-modern-arts-using-generative-adversarial-network-gan-on-spell-39f67f83c7b4)
+
+[Artificial Art: How GANs are making machines creative](https://heartbeat.fritz.ai/artificial-art-how-gans-are-making-machines-creative-b99105627198)
+
+### Artsy Portrait from Photos
+
+[portraitai](https://portraitai.com/)
+
+[](https://petapixel.com/2019/09/20/this-company-is-giving-away-100000-ai-generated-headshots-for-free/)
+
+[what you look like as a renaissance painting according to AI](https://www.fastcompany.com/90376689/what-you-look-like-as-an-renaissance-painting-according-to-ai)
+
+[Portraits of historical figures](https://www.designboom.com/technology/bas-sterwijk-artbreeder-ai-famous-portraits-07-11-2020/)
+
+### Photo Generation
+
+[thispersondoesnotexist.com](https://www.thispersondoesnotexist.com/) -- Imagined by a GAN (generative adversarial network) StyleGAN2 (Dec 2019) 
+
+[generated.photos](https://generated.photos/)
+
